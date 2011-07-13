@@ -1,1 +1,1 @@
-exec zsh
+command -v zsh > /dev/null && exec zsh
