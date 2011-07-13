@@ -1,2 +1,1 @@
-zsh
-exit
+exec zsh
